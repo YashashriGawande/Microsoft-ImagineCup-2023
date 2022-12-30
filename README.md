@@ -31,7 +31,8 @@ https://youtu.be/Z-1__7TO2js
 ## Project PPT
 https://www.behance.net/gallery/123551417/Bridge-Video-Conferencing-Website
 
-## Screenshots of the application
+## Screenshots of the working application
 
 ![2](https://user-images.githubusercontent.com/81551926/210068804-1916b04d-9f1e-4b01-b198-e6529b8d9975.PNG)
+
 ![3](https://user-images.githubusercontent.com/81551926/210068807-a676fe80-62cc-4c84-86be-b5f4870c5eaf.PNG)
