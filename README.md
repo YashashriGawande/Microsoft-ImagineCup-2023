@@ -1,6 +1,6 @@
 # ImagineCup
 
-# Bridge - A Video Conferencing Application
+# GreenSustain
 
 ## About Bridge
 Bridge is a web based video conferencing application which bridges the gap between people and connects them online. It is a simple and easy to use application which offers a distraction free interface. The application can be used to create a one on one or a group video call. The video call comes with features like mute audio/video, share screen and in-built chatting.
