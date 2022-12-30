@@ -25,11 +25,8 @@ GreenSustain is a web application for people to come up together and work with o
 ## Project Link
 https://black-glacier-076729d10.2.azurestaticapps.net
 
-## Project Video
-https://youtu.be/Z-1__7TO2js
-
 ## Project PPT
-https://www.behance.net/gallery/123551417/Bridge-Video-Conferencing-Website
+[Project Proposal.pdf](https://github.com/YashashriGawande/ImagineCup/files/10325327/Project.Proposal.pdf)
 
 ## Screenshots of the working application
 
