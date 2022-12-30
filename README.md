@@ -16,12 +16,6 @@ GreenSustain is a web application for people to come up together and work with o
 5. VS Code
 6. Microsoft Azure
 
-## Features of Application
-1. One on One Video Call with in-built chatting
-2. Group Video Call
-3. Broadcast Feature
-4. Text Chatting
-
 ## Project Link
 https://black-glacier-076729d10.2.azurestaticapps.net
 
