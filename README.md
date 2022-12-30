@@ -2,8 +2,8 @@
 
 # GreenSustain
 
-## About Bridge
-Bridge is a web based video conferencing application which bridges the gap between people and connects them online. It is a simple and easy to use application which offers a distraction free interface. The application can be used to create a one on one or a group video call. The video call comes with features like mute audio/video, share screen and in-built chatting.
+## About 
+GreenSustain is a web application for people to come up together and work with others in order to conserve, protect, and enhance environment, wildlife and water for a sustainable future.
 
 ![1](https://user-images.githubusercontent.com/81551926/210068796-4f3f9ad8-c269-46ec-a944-f31135727f54.PNG)
 
